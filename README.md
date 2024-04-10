@@ -1,24 +1,19 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE4NnlzZXBodmZxb2N2ZnQ3YTlxd2UzMmY1c3liaDEzZXgwZ2N0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sreimler" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  <!--   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> -->
-  <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
-  </div>
+  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreimler)
+  [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Soeren_Reimler/)
+   
+  ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  <h1>
-    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
+<br>
 
 ---
 
+### :man_technologist: About Me
 
-### :man_technologist: About Me :
-I am an Android Software Engineer currently residing in Germany.
+Android Software Engineer currently residing in Germany.
 
 - :telescope: I’m mostly working on Android apps but also doing Android OS integration/customization.
 
@@ -26,7 +21,7 @@ I am an Android Software Engineer currently residing in Germany.
 
 - :zap: In my free time, I like going to the gym and building things with electronics and 3D printers.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreimler)
+- :mailbox: How to reach me: [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreimler)
 
 ---
 
