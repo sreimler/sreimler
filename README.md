@@ -18,9 +18,9 @@
 
 
 ### :man_technologist: About Me :
-I am a German/US Android Software Engineer currently residing in Germany.
+I am an Android Software Engineer currently residing in Germany.
 
-- :telescope: I’m a Software Engineer working on Android apps as well as Android OS integration/customization.
+- :telescope: I’m mostly working on Android apps but also doing Android OS integration/customization.
 
 - :seedling: I'm currently learning about Kotlin Flows.
 
