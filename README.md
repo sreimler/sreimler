@@ -1,11 +1,15 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE4NnlzZXBodmZxb2N2ZnQ3YTlxd2UzMmY1c3liaDEzZXgwZ2N0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE4NnlzZXBodmZxb2N2ZnQ3YTlxd2UzMmY1c3liaDEzZXgwZ2N0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/><br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreimler)
-  [![Xing](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Soeren_Reimler/)
+  <a href="https://www.linkedin.com/in/sreimler">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.xing.com/profile/Soeren_Reimler/">
+    <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" />
+  </a>
+</p>
 
-  <h1>Hi, I'm Sören 👋</h1>
-</div>
+<p align="center" style="font-size:2em; font-weight:bold; margin-bottom:0;">Hi, I'm Sören 👋</p>
 
 ---
 
