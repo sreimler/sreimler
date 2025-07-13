@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Kotlin-first Android Software Engineer based in Germany, with 5+ years of experience building modern, scalable mobile apps. I specialize in Jetpack Compose, modular architecture, and building things that just work™ — whether that’s consumer apps, internal tooling, or platform components.
+I'm a Kotlin-first Android Software Engineer based in Germany, with 7+ years of experience building modern, scalable mobile apps. I specialize in Jetpack Compose, modular architecture, and building things that just work™ — whether that’s consumer apps, internal tooling, or platform components.
 
 After a focused sabbatical for family and self-driven upskilling, I’m back to building and shipping — and actively looking to join great product teams.
 
